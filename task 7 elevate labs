@@ -12,23 +12,20 @@ Firefox Extension Audit — Steps Taken
 1. Opened the Brave extension
  I navigated to chrome://extensions/ to check the current extensions list.
 2. Reviewed all installed extensions
- I found two extensions installed: DuckDuckGo Privacy Essentials and uBlock Origin. Both were visible in the list and enabled at the time of the review.
+ I found one extensions installed: Macfee WebAdviser. it visible in the list and enabled at the time of the review.
 
 3. Checked permissions and developer reputation
  For each extension, I opened the Manage page and reviewed its permissions.
-DuckDuckGo requested tracker-blocking access, and uBlock Origin required site-wide access to block ads. Both permissions were reasonable given their function. I also confirmed they were developed by well-known, trusted developers with positive user reviews.
+ No suspicious or unused extensions were present. installed add-ons served a clear privacy and security purpose and were frequently updated by verified developers.
 
-   4. Identified suspicious or unused extensions
- No suspicious or unused extensions were present. Both installed add-ons served a clear privacy and security purpose and were frequently updated by verified developers.
-
-   5. Removed suspicious or unnecessary extensions (if found)
+   5. Removed suspicious or unnecessary extensions
  Since both extensions were safe, no removals were required. However, I noted that any untrusted or unnecessary extension would be removed at this stage to reduce risk and improve browser performance.
 
    6. Restarted the browser and verified settings
- After completing the audit, I restarted Firefox to ensure the changes applied correctly. I checked that the default search engine, homepage, and notification settings were intact, and confirmed the browser was functioning normally.
+ After completing the audit, I restarted Brave to ensure the changes applied correctly. I checked that the default search engine, homepage, and notification settings were intact, and confirmed the browser was functioning normally.
 
    7. Researched risks of malicious extensions
  I learned that malicious extensions can harm users by injecting ads, stealing personal data, logging keystrokes, hijacking search results, or tracking browsing activity without consent. This highlights the importance of reviewing permissions carefully before installation.
 
    8. Documented steps and final results
- I captured screenshots of the Add-ons Manager and the installed extensions for evidence. In my report, I documented that Firefox was clean and secure with only two safe extensions installed, and no removals were necessary.
+ I captured screenshots of the chrome://extensions/ and the installed extensions for evidence. In my report, I documented that Brave was clean and secure with only one safe extensions installed, and no removals were necessary.
