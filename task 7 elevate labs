@@ -10,8 +10,7 @@ Deliverables: List of suspicious extensions found and removed (if any)
 
 Firefox Extension Audit — Steps Taken
 1. Opened the Brave extension
- I accessed the Add-ons Manager by typing about:addons in the address bar and selecting the Extensions tab. This section shows all currently installed extensions in Firefox.
-
+ I navigated to chrome://extensions/ to check the current extensions list.
 2. Reviewed all installed extensions
  I found two extensions installed: DuckDuckGo Privacy Essentials and uBlock Origin. Both were visible in the list and enabled at the time of the review.
 
