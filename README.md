@@ -16,11 +16,10 @@ Audit installed browser extensions to ensure security, identify suspicious ones,
 - In Chrome: navigated to `chrome://extensions/` to check the current extensions list.
 
 ## 2. Review all installed extensions
-- Firefox: Found two extensions—**DuckDuckGo Privacy Essentials** and **uBlock Origin**, both enabled.
 - Chrome: Listed all current extensions (details to be filled if any are installed).
 
 ## 3. Check permissions and reviews for each extension
-- Firefox: Opened Manage pages; DuckDuckGo requires tracker-blocking, uBlock Origin needs site-wide access. Verified both have trusted developers and positive reviews.
+
 - Chrome: Would review each extension’s details similarly (permissions, developer, ratings).
 
 ## 4. Identify any unused or suspicious extensions
